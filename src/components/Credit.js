@@ -5,7 +5,7 @@ export default function Credit() {
     <div class="credit">
     <p>
       Coded by
-      , <a href="https://github.com/shemmee/React-Weather-App">Open sourced on Github.</a> Hosted on Netlify
+      Subhra Pratim Mondal, <a href="https://github.com/subhrapratim07/Weather-App">Open sourced on Github.</a> Hosted on Render
     </p>
   </div>
   );
